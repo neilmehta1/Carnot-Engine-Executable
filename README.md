@@ -1,4 +1,4 @@
-# Carnot-Engine-Executable
+# Carnot Engine
 Download and play my chess engine! 
 
 Ensure java is installed. Unzip and double click CarnotEngine.jar.
